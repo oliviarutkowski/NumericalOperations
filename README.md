@@ -1,4 +1,4 @@
-# Lab3NumericalOperations
+# NumericalOperations
 
 ## Introduction
 In this lab you will apply numerical operations to perform calculation and print the results to the console
