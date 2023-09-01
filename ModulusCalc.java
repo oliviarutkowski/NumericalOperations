@@ -1,3 +1,6 @@
+/**
+ * Indicate your first and last name along with a description of this class
+ */
 public class ModulusCalc {
     public static void main(String args[]){
         int number = 1234;
