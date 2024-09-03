@@ -1,10 +1,13 @@
 /**
- * Indicate your first and last name along with a description of this class
+Olivia Rutkowski. APCSA
  */
 public class ModulusCalc {
     public static void main(String args[]){
         int number = 1234;
         int mod = 103;
+        int remainder1 = number / mod;
+        System.out.println(remainder1);
+        
 
         /**
          * Implement your algorithm for calculating the modulus of any number 
