@@ -3,22 +3,22 @@
  */
 public class NumericalOperations{
     public static void main(String args[]){
-        
-        String prob1 = "Problem 1: 79 + 3 * (4 + 82 - 68) - 7 + 19 = ";
+       
+        String prob1 = "Problem 1: -79 + 3 * (4 + 82 - 68) / 7 % 19 = ";
       
-        String prob2 = "Problem 2: (179 + 21 + 10)/7 + 181 = ";
+        String prob2 = "Problem 2: (179 + 21 + 10)%7 / 181 * 2 = ";
     
-        String prob3 = "Problem 3: 10389 * 56 * 11 + 2246 = ";
+        String prob3 = "Problem 3: 10 / 2 ** 2 + 10 % 2 = ";
 
-        double ans1 = 79 + 3 * (4 + 82 - 68) - 7 + 19;
+        double ans1 = -79 + 3 * (4 + 82 - 68) / 7 % 19;
         
         String result1 = prob1 + ans1;
         
-        double ans2 = (179 + 21 + 10)/7 + 181;
+        double ans2 = (179 + 21 + 10)%7 / 181 * 2;
         
         String result2 = prob2 + ans2;
         
-        double ans3 = 10389 * 56 * 11 + 2246;
+        double ans3 = 10 / 2 * 2 + 10 % 2;
         
         String result3 = prob3 + ans3;
         
